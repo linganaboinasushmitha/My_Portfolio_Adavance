@@ -79,7 +79,7 @@ I am a Computer Science Engineering graduate passionate about building responsiv
 
 🔗 Live Demo
 
-The portfolio is hosted on GitHub Pages (if you deploy it), or view it locally by opening index.html.
+The portfolio is hosted on GitHub Pages https://linganaboinasushmitha.github.io/My_Portfolio_Adavance/, or view it locally by opening index.html.
 
 📄 License
 
